@@ -1,4 +1,4 @@
-package Temp;
+package example;
 
 public class mainProva {
 

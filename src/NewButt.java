@@ -18,7 +18,7 @@ import javax.swing.border.EmptyBorder;
 public class NewButt extends JButton{
 	// generali
 	private Color col1=Est.backgroundDarkerColor;
-	private Color scri=Color.WHITE;
+	private Color scri=Est.textColorLight;
 	
 	//per OVER
 	private final Timer timer;

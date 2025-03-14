@@ -1,4 +1,4 @@
-package Temp;
+package example;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
@@ -13,11 +13,12 @@ import src.FormVuoto;
 
 public class Home extends Finestra{
 	String segnapostoString=" ";
+	
+	
 	public Home() {
-		super("Commit n pusH");
+		super("Name of Program",5);
 		
 		JPanel contenuto = new JPanel();
-		contenuto.setMaximumSize(Est.windMedium);
 		
 		contenuto.setBorder(Est.bordo);
 		contenuto.setOpaque(false);

@@ -9,8 +9,9 @@ import javax.swing.border.EmptyBorder;
 public class Est {
 	public static Color backgroundColor=new Color(91,138,223);
 	public static Color backgroundDarkerColor=new Color(44,100,198);
-
 	public static Color backgroundLighter=new Color(117,223,235);
+	public static Color textColorLight=Color.WHITE;
+	protected static Color textColorDark=Color.BLACK;
 	
 	public static Font boldFont=new Font("Arial Rounded MT Bold", Font.BOLD, 20);
 	public static Font plainFont=new Font("Arial Rounded MT Bold", Font.PLAIN, 20);
@@ -30,6 +31,8 @@ public class Est {
 	public static Dimension windMedium=new Dimension((int)wi2, (int)he2);
 	public static Dimension windSmall=new Dimension((int)wi4, (int)he4);
 	public static Dimension windMinimal=new Dimension((int)wi8, (int)he8);
+	public static Dimension windMediumVert=new Dimension((int)he/3*2, (int)he/5*4);
+	public static Dimension windSmallVert=new Dimension((int)he/3, (int)he/5*2);
 	
 	public static Dimension buttBig=new Dimension((int)wi4, (int)he/11);
 	public static Dimension buttMed=new Dimension((int)wi/5, (int)he/16);
