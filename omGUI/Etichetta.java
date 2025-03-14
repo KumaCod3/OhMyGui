@@ -1,4 +1,4 @@
-package src;
+package omGUI;
 import java.awt.Color;
 import javax.swing.JLabel;
 

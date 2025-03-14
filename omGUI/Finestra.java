@@ -1,4 +1,4 @@
-package src;
+package omGUI;
 import java.awt.BorderLayout;
 import java.awt.Frame;
 import java.awt.event.WindowAdapter;

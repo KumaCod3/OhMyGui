@@ -1,4 +1,4 @@
-package src;
+package omGUI;
 import java.awt.*;
 import java.text.DecimalFormat;
 import java.time.format.DateTimeFormatter;

@@ -1,4 +1,4 @@
-package src;
+package omGUI;
 import java.awt.GridBagLayout;
 import javax.swing.JPanel;
 

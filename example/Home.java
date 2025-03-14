@@ -4,11 +4,12 @@ import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JPanel;
-import src.Bottone;
-import src.Est;
-import src.Etichetta;
-import src.Finestra;
-import src.FormVuoto;
+
+import omGUI.Bottone;
+import omGUI.Est;
+import omGUI.Etichetta;
+import omGUI.Finestra;
+import omGUI.FormVuoto;
 
 
 public class Home extends Finestra{

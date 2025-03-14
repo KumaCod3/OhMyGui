@@ -1,4 +1,4 @@
-package src;
+package omGUI;
 import java.util.ArrayList;
 import java.util.HashMap;
 import javax.swing.event.DocumentEvent;
