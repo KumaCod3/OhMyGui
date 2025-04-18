@@ -13,7 +13,7 @@ public class Finestra extends Frame {
 		super(x);
 		addWindowListener (new WindowAdapter() {    
             public void windowClosing (WindowEvent e) {    
-                dispose();    
+                System.exit(0);
             }    
         });
 		
